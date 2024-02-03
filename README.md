@@ -1,2 +1,0 @@
-# mlgapp
-Onligne learning app

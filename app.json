@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sciexpo",
-    "slug": "sciexpo",
+    "name": "mlg-app",
+    "slug": "mlg-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,11 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.mlg.sciexpo"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "93c25db8-466d-450f-b90b-d41914ff37b1"
+      }
+    },
+    "owner": "baudouin-ntumba-n"
   }
 }
